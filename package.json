@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/GustavoR0dr1gu3z/Autobiografia/issues"
   },
-  "homepage": "https://github.com/GustavoR0dr1gu3z/Autobiografia#readme"
+  "homepage": "https://github.com/GustavoR0dr1gu3z/Autobiografia#readme",
+  "dependencies": {
+    "jquery": "^3.5.0"
+  }
 }
